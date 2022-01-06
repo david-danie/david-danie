@@ -3,7 +3,6 @@
 <div align="left">I love technology and programming web pages / microcontrollers. HTML5, CSS3, JavaScript, Embedded C, Java.</div>
 
 
-
 - 🔭 I’m currently working on **CTV**
 
 - 🌱 I’m currently learning **Node JS**
