@@ -1,6 +1,8 @@
 ### Code and uc's... electronics too.
 
-I love technology and programming web pages / microcontrollers. HTML5, CSS3, JavaScript, Embedded C, Java.
+<div align="left">I love technology and programming web pages / microcontrollers. HTML5, CSS3, JavaScript, Embedded C, Java.</div>
+
+
 
 - 🔭 I’m currently working on **CTV**
 
