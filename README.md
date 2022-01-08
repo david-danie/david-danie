@@ -2,7 +2,7 @@
 
 <div align="left">I love coding and programming microcontrollers, sometimes in my freetime I'm doing electronics. In 2021, I discovered the large Web developing world and I want to be there. At the moment my strengths are the Frontend develop and 8bit microcontrollers. However I'm learning Java to Backend develop and Node JS.  HTML5, CSS3, JavaScript, Embedded C, Java.</div>
 <br>
-<div align="center"><img src="./coll.png" alt="arduino" width="800" height="280"/></div>
+<div align="center"><img src="./coll.png" alt="arduino" width="640" height="220"/></div>
 
 - 🔭 I’m currently working on **CTV**
 
