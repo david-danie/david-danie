@@ -3,7 +3,7 @@
 <div>I love coding and programming microcontrollers, sometimes in my freetime I'm doing electronics and coocking. </div>
 <div>In 2021 I finished my enriching professional experience in a industrial environment. I found a great <a href="https://mexico.generation.org/">bootcamp</a>, there discovered the large world Web Developing. My strenghts Frontend develop and 8 bit microcontrollers. My next step is connecting a 32/64 bit processor like a server and doing some stuff like mannage some HTTP requests and control I's/O's and sensors of an automated greenhouse.</div>
 <br>
-<div align="center"><img src="./coll.png" alt="arduino" width="720" height="300"/></div>
+<div align="center"><img src="./des1.1.jpg" alt="arduino" width="1000" height="220"/></div>
 
 - 🔭 I’m currently working on **CTV**
 
