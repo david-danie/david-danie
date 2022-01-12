@@ -5,7 +5,7 @@
 <br>
 <div align="center"><img src="./des1.1.jpg" alt="imagen"/></div>
 
-- I’m currently working on <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">**CTV**</a> 
+- I’m currently working on <a href="https://github.com/david-danie/CTV1.git" target="_blank" rel="noreferrer">**CTV**</a> 
 
 - I’m currently learning **Node JS**
 
