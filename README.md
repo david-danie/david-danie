@@ -5,7 +5,7 @@
 <br>
 <div align="center"><img src="./des1.1.jpg" alt="imagen"/></div>
 
-- I’m currently working on <a href="https://github.com/david-danie/CTV1.git" target="_blank" rel="noreferrer">**CTV**</a> a project to control some outputs from a Microchip 8 bit microcontroller for a greenhouse aplication.
+- I’m currently working on <a href="https://github.com/david-danie/M32CTV.git" target="_blank" rel="noreferrer">**CTV**</a> a project to control some outputs from an Atmega32/328 with Arduino bootloader on a DIY greenhouse.
 
 - I’m currently learning **Node JS**
 
@@ -13,6 +13,7 @@
  <tr>
     <th border-style="none"><h3>Languages:</h3></th>
     <th border-style="none"><h3>Tools:</h3></th>
+    <th border-style="none"><h3>Others Tools:</h3></th>
  </tr>
   
  <tr>
