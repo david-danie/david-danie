@@ -1,7 +1,7 @@
 ### Code and uc's... dogs too. :dog2:
 
 <div>I love coding and programming microcontrollers, sometimes I'm doing electronics and coocking.</div>
-<div>In 2021 I finished my enriching professional experience in an industrial environment. I found a great <a href="https://mexico.generation.org/">bootcamp</a>, there I discovered the large world Web developing. My strenghts is Frontend develop and 8 bit microcontrollers. My next step is connecting a 32/64 bit processor like a server and doing some stuff like mannage some HTTP requests and control I's/O's and sensors of an automated greenhouse.</div>
+<div>In 2021 I finished my enriching professional experience in an industrial environment. I found a great <a href="https://mexico.generation.org/">bootcamp</a>, there I discovered the large world Web developing. My strenghts is Frontend develop and 8 bit microcontrollers. My next step is connecting a 32/64 bit processor like a server and doing some stuff like mannage some HTTP requests and control I's/O's and sensors of an automated DIY greenhouse.</div>
 <br>
 <div align="center"><img src="./des1.1.jpg" alt="imagen"/></div>
 
