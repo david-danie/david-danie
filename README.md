@@ -1,7 +1,7 @@
 ### Code and uc's... dogs too. :dog2:
 
 <div>I love coding and programming microcontrollers, sometimes I'm doing electronics and coocking.</div>
-<div>In 2021 I finished my enriching professional experience in an industrial environment. I found a great <a href="https://mexico.generation.org/">bootcamp</a>, there I discovered the large world Web developing. My strenghts is Frontend develop and 8 bit microcontrollers. My next step is connecting a 32/64 bit processor like a server and doing some stuff like mannage some HTTP requests and control I's/O's and sensors of an automated DIY greenhouse.</div>
+<div align="justify">In 2021 I finished my enriching professional experience in an industrial environment. I found a great <a href="https://mexico.generation.org/">bootcamp</a>, there I discovered the large world Web developing. My strenghts is Frontend develop and 8 bit microcontrollers. My next step is connecting a 32/64 bit processor like a server and doing some stuff like mannage some HTTP requests and control I's/O's and sensors of an automated DIY greenhouse.</div>
 <br>
 <div align="center"><img src="./des1.1.jpg" alt="imagen"/></div>
 
@@ -19,9 +19,10 @@
  <tr>
   <td border-style="none">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   
+     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   </td>
+  
   <td border-style="none">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
