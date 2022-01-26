@@ -1,11 +1,10 @@
 ### Code and uc's... dogs too. :dog2:
 
-<div>I love coding and programming microcontrollers, sometimes I'm doing electronics and coocking.</div>
-<div align="justify">In 2021 I finished my enriching professional experience in an industrial environment. I found a great <a href="https://mexico.generation.org/">bootcamp</a>, there I discovered the large world Web developing. My strenghts is Frontend develop and 8 bit microcontrollers. My next step is connecting a 32/64 bit processor like a server and doing some stuff like mannage some HTTP requests and control I's/O's and sensors of an automated DIY greenhouse.</div>
+<div align="justify">I love coding and programming microcontrollers, sometimes I'm doing electronics and coocking. In 2021 I finished my enriching professional experience in an industrial environment. I found a great <a href="https://mexico.generation.org/">bootcamp</a>, there I discovered the large world Web developing. My strenghts is Frontend develop and 8 bit microcontrollers. My next step is connecting a 32/64 bit processor like a server and doing some stuff like mannage some HTTP requests and control I's/O's and sensors of an automated DIY greenhouse.</div>
 <br>
 <div align="center"><img src="./des1.1.jpg" alt="imagen"/></div>
 
-- I’m currently working on <a href="https://github.com/david-danie/M32CTV.git" target="_blank" rel="noreferrer">**CTV**</a> a project to control some outputs from an Atmega32/328 with Arduino bootloader on a DIY greenhouse.
+- I’m currently working on <a href="https://github.com/david-danie/M32CTV.git" target="_blank" rel="noreferrer">**M32CTV**</a> a project to control some outputs from an Atmega32/328 with Arduino bootloader on a DIY greenhouse.
 
 - I’m currently learning **Python**
 
@@ -40,5 +39,4 @@
   </td>
  </tr>
 </table>
-
-<h3 align="left">Connect with me:</h3>
+<div><h3 align="left">Connect with me: </h3></div>
