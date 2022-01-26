@@ -6,7 +6,7 @@
 
 - I’m currently working on <a href="https://github.com/david-danie/M32CTV.git" target="_blank" rel="noreferrer">**M32CTV**</a> a project to control some outputs from an Atmega32/328 with Arduino bootloader on a DIY greenhouse.
 
-- I’m currently learning **NODE JS**
+- I’m currently learning **Node JS**
 
 <table border-style="none" align="center">
  <tr>
