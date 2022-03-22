@@ -23,6 +23,6 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/david-danie/M32CTV.git" target="_blank" rel="noreferrer">**M32CTV**</a> a project to control some outputs from an Atmega32/328 with Arduino bootloader on a DIY greenhouse.
 
-- 🌱 I’m currently learning **Python, Flask and web sockets**
+- 🌱 I’m currently learning **Python, Flask and web sockets**.
 <br>
 <div><p align="left">Connect with me: <b>david.danielhdz@gmail.com</b></p></div>
