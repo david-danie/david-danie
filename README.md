@@ -1,6 +1,6 @@
 ### Code and uc's... dogs too. :dog2:
 
-<div align="justify">I love coding and programming microcontrollers, sometimes I'm doing electronics and coocking. In 2021 I finished my enriching professional experience in an industrial environment. I found a great <a href="https://mexico.generation.org/">bootcamp</a>, there I discovered the large world web develop. My strenghts is Python, C++ and 8 bit microcontrollers. My next step is connecting a 32/64 bit processor like a server and doing some stuff like mannage some HTTP requests and control I's/O's and sensors of an automated DIY greenhouse.</div>
+<div align="justify">I'm David, a software developer, electronics and microcontrollers enthusiast and a food lover. In 2021 I finished my enriching professional experience in a HVAC factory as maintenance leader. My curiosity took me out to learn about programming and web development. In 2022 I got my first professional experience as software developer with Java and Spring framework. Now my strenghts are Python, C++ and microcontrollers. My side projects are related with greenhouse automating using the ESP32, PCB design and electric controllers.</div>
 <br>
 <br>
 <div align="center"><img src="./des1.1.jpg" alt="imagen"/></div>
@@ -22,7 +22,7 @@
  </p>
 <br>
 
-- 🔭 I’m currently working on <a href="https://github.com/david-danie/M32CTV.git" target="_blank" rel="noreferrer">**M32CTV**</a> a project to control some outputs from an Atmega32/328 with Arduino bootloader on a DIY greenhouse.
+- 🔭 I’m currently working in <a href="https://github.com/david-danie/automatedGreenhouse" target="_blank" rel="noreferrer">**ESP32greenhouse**</a> a project to control some outputs of an ESP32 for a DIY greenhouse.
 
 - 🌱 I’m currently learning <a href="https://github.com/david-danie/Python-Web-Sockets">**Python, web sockets and Flask**.</a>
 <br>
